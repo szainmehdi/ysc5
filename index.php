@@ -56,6 +56,11 @@
 		</script>
     </head>
 	<body>
+    <?php
+
+    phpinfo();
+
+    ?>
     	<div id="wrapper">
         	
             <div id="header-wrap" class="sticky">
@@ -79,7 +84,7 @@
                             </div>
                             <div id='social' class='header-section'>
                                 <span class="header-sectionTitle">Connect with Us</span>
-                                <span class='header-sectionText'>
+                                <div class='header-sectionText'>
                                 	<div class='social-icon myysc'>
                                     	<a href="#"><img src="images/Pace_Social_Icon_Set/PNG/myYSC.png" /></a>
                                     </div>
@@ -94,7 +99,7 @@
                                     <div class='social-icon youtube'>
                                     	<a href="https://www.youtube.com/youthskillscenter"><img src="images/Pace_Social_Icon_Set/PNG/youtube.png" /></a>
                                     </div>
-                                </span>
+                                </div>
                             </div>
                         </div>
                         <div class="header-search">
