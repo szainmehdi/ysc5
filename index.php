@@ -10,10 +10,7 @@
     	<title>Home | Youth Skills Center - A Preschool & Childcare Center in Riverside, CA</title>
 
         <!-- Begin Stylesheets -->
-        <link href="styles/fonts.css" rel="stylesheet" type="text/css" />
-        <link href="styles/main.css" rel="stylesheet" type="text/css" />        
-        <link href="styles/layout.css" rel="stylesheet" type="text/css" />
-        <link href="styles/banners.css" rel="stylesheet" type="text/css" />
+
         <link rel="shortcut icon" href="images/favicon/favicon_new2.ico" />
         <!-- End Stylesheets -->
         
