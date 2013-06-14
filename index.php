@@ -187,7 +187,7 @@
                     <div class="footer-links" id="footer-links2">
                     	<img src="images/logos/site-logo-thumb.png" alt="YSC" />
                         <h4>Contact Us</h4>
-                        <a class="fl" href="#"><strong>tel.</strong> 951.681.2972</a>
+                        <a class="fl" href="tel:9516812972"><strong>tel.</strong> 951.681.2972</a>
                         <a class="fl" href="#"><strong>email.</strong> info@ysc5.com</a>
                         <a class="fl" href="#"><strong>location.</strong> 5111 Felspar Street,<br /><span id="cty">Jurupa Valley, CA 92509</span></a>
                     </div>
