@@ -79,7 +79,7 @@
                             </div>
                             <div id='social' class='header-section'>
                                 <span class="header-sectionTitle">Connect with Us</span>
-                                <div class='header-sectionText'>
+                                <span class='header-sectionText'>
                                 	<div class='social-icon myysc'>
                                     	<a href="#"><img src="images/Pace_Social_Icon_Set/PNG/myYSC.png" /></a>
                                     </div>
@@ -94,11 +94,11 @@
                                     <div class='social-icon youtube'>
                                     	<a href="https://www.youtube.com/youthskillscenter"><img src="images/Pace_Social_Icon_Set/PNG/youtube.png" /></a>
                                     </div>
-                                </div>
+                                </span>
                             </div>
                         </div>
                         <div class="header-search">
-                            <input type="search" />
+                        
                         </div>
                         
                     </div>
