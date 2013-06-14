@@ -191,7 +191,7 @@
                         <a class="fl" href="#"><strong>email.</strong> info@ysc5.com</a>
                         <a class="fl" href="#"><strong>location.</strong> 5111 Felspar Street,<br /><span id="cty">Jurupa Valley, CA 92509</span></a>
                     </div>
-                    <p>Copyright &copy; 2013 Youth Skills Center. All images, artwork, and logos used in compliance or with permission. Site by <a href="http://www.zcomputers.org" target="_blank">Z Computers</a>. Designed by S. Zain Mehdi.</p>
+                    <p>Copyright &copy; 2013 Youth Skills Center. All images, artwork, and logos used in compliance or with permission. Site by <a href="http://www.zcomputers.org" target="_blank">Z Computers</a>. Designed and Engineered by S. Zain Mehdi.</p>
                 </div>
             </div>
             </div>
