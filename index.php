@@ -2,7 +2,7 @@
 <!-- 
 	Youth Skills Center Preschool & Childcare.
     Website Designed by S. Zain Mehdi.
-    Last Updated: April 18th, 2013
+    Last Updated: June 13th, 2013
     Copyright (C) 2013 Youth Skills Center & Z Computers.
 -->
 <html>
@@ -18,7 +18,7 @@
         <!-- End Stylesheets -->
         
         <!-- jQuery Plugins -->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script src="functions/jquery.min.js"></script>
 		<script src="functions/responsive_slides/responsiveslides.min.js"></script>
         <script>
 		  $(function() {
@@ -40,7 +40,7 @@
 			  before: function(){},   // Function: Before callback
 			  after: function(){}     // Function: After callback
 			});
-			$(".nav-button").click(function(e) {
+			$(".nav-button").click(function() {
 				$("#sidebar-wrap").slideToggle(250);
 			});
 			$(window).resize(function() {
@@ -157,7 +157,7 @@
                         <!-- Main Page Content goes here -->
                         <h3>Welcome</h3>
                         <p>
-                        Welcome to Youth Skills Center, an Early Childhood Development Center located in Jurupa Valley, CA. We are a small, family-owned center with programs for children ages 2 - 14. We have a passion for teaching and believe children learn best in a comfortable, friendly environment</strong>. With a focus on technology, we make it a point to prepare your child for the world of tomorrow. At YSC, every program is of the&nbsp;highest quality&nbsp;without compromise in affordability.</p>
+                        Welcome to Youth Skills Center, an Early Childhood Development Center located in Jurupa Valley, CA. We are a small, family-owned center with programs for children ages 2 - 14. We have a passion for teaching and believe children learn best in a comfortable, friendly environment. With a focus on technology, we make it a point to prepare your child for the world of tomorrow. At YSC, every program is of the&nbsp;highest quality&nbsp;without compromise in affordability.</p>
                     </div>
                 </div>
             </div>
@@ -195,6 +195,5 @@
                 </div>
             </div>
             </div>
-        </div>    
     </body>
 </html>
