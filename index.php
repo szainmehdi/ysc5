@@ -166,9 +166,9 @@
                 	<!-- copyright & related links go here -->
                     <div class="footer-links" id="footer-links1">
                     	<h4>Information</h4>
-                        <a class="fl" href="#">About Us</a>
-                        <a class="fl" href="#">Our Staff</a>
-                        <a class="fl" href="#">Our Facility</a>
+                        <a class="fl" href="#about">About Us</a>
+                        <a class="fl" href="#staff">Our Staff</a>
+                        <a class="fl" href="#facility">Our Facility</a>
                         <h4>MyYSC</h4>
                         <a class="fl" href="#">Login to MyYSC</a>
                         <a class="fl" href="#">Learn more about MyYSC</a>
